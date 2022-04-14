@@ -1,4 +1,4 @@
-# wiki
+# Wiki
 Encyclopedia Wiki - with Django
 Project 1 from CS50 Harvard Course
 
